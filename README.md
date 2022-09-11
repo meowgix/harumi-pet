@@ -12,7 +12,7 @@
 
 ********************
 
-![meowgix-logo](/images/meowgix-logo.svg)
+![harumi-pet-logo](/images/harumi-pet.svg)
 
 ********************
 
